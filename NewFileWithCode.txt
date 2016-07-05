@@ -1,0 +1,6 @@
+some code:
+
+-param a=1;
+-param b=2;
+-param c=3;
+-param d=c*15;
